@@ -34,7 +34,7 @@
 
 جميع الحقوق محفوظة لـ **Polat Studio** © 2026
 
-Discord: `plt`
+Discord: `engkane`
 
 ---
 
@@ -74,4 +74,4 @@ The bot combines powerful moderation systems, anti-raid protection, logging, giv
 
 All rights reserved to **Polat Studio** © 2026
 
-Discord: `plt`
+Discord: `engkane`
